@@ -21,7 +21,7 @@ This project involve 5 data visualization tasks related to aviation safety. The 
 * [National Highway Traffic Safety Administration](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
 
 
-## Authors
+## Author
 
 Samuel Sears @ssears219
 
