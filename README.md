@@ -14,11 +14,11 @@ Task 5 - Video: Externally focused animation created in Animaker again emphasizi
 
 ## Data
 
-[Covid Data](https://covidtracking.com/data/download)
-[Bureau of Transportation Saftey](https://www.transtats.bts.gov/Timeseries.asp)
-[National Vital Statistics Systems - Mortality data (2018) via CDC WONDER](https://wonder.cdc.gov/)
-[National Transportation and Safety Board](https://www.ntsb.gov/investigations/data/Pages/Data_Stats.aspx)
-[National Highway Traffic Safety Administration](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
+* [Covid Data](https://covidtracking.com/data/download)
+* [Bureau of Transportation Saftey](https://www.transtats.bts.gov/Timeseries.asp)
+* [National Vital Statistics Systems - Mortality data (2018) via CDC WONDER](https://wonder.cdc.gov/)
+* [National Transportation and Safety Board](https://www.ntsb.gov/investigations/data/Pages/Data_Stats.aspx)
+* [National Highway Traffic Safety Administration](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
 
 
 ## Authors
