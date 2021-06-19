@@ -20,6 +20,14 @@ This project involve 5 data visualization tasks related to aviation safety. The 
 * [National Transportation and Safety Board](https://www.ntsb.gov/investigations/data/Pages/Data_Stats.aspx)
 * [National Highway Traffic Safety Administration](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
 
+## Tools
+
+* PowerBI
+* PowerPoint
+* Excel
+* Animaker
+* ScreenRec
+* InkScape
 
 ## Author
 
